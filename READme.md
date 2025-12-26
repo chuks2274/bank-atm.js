@@ -63,8 +63,8 @@ Test-driven development mindset: reliable, maintainable, and scalable code.
 
 Clone the Repository: 
 
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/chuks2274/bank-atm.js.git
+cd bank-atm
 
 # Open in Browser
 
@@ -78,4 +78,4 @@ npm install
 npm test
 
 # Live Deployment
-View the deployed project here: [**Live Demo**](https://)
+View the deployed project here: [**Live Demo**](https://bank-atm-js.vercel.app/)
